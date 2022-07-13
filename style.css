@@ -136,6 +136,8 @@ button[class^="btn-"]:active::after {
   color: #fff;
 }
 
+/* === Footer === */
+
 footer {
   background-color: #a78bfa;
 }
